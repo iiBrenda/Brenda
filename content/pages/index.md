@@ -65,7 +65,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Dicas de '
       color: text-dark
       styles:
         self:
