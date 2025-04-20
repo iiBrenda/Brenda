@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Entre em contato com a nossa equipe.
 slug: /
 sections:
   - type: GenericSection
