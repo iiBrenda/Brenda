@@ -8,10 +8,20 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      A **B2CRED** é uma empresa especializada em **soluções financeiras
+      personalizadas**, com foco em empréstimos, financiamentos e soluções
+      financeiras. Nosso compromisso é oferecer atendimento ágil, seguro e
+      transparente, ajudando nossos clientes a conquistar equilíbrio financeiro,
+      realizar sonhos e tomar decisões mais estratégicas com o dinheiro.
+
+
+      Transformamos desafios em oportunidades.
+
+      **B2CRED — Soluções feitas para você.**
+
+
+
     actions:
       - label: Get started
         altText: ''
