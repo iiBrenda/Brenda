@@ -74,7 +74,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >+
           #### Monte uma reserva de emergência com pelo menos 3 meses de
