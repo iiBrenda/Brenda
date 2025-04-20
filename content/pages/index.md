@@ -76,8 +76,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: |+
-          ## Monte uma reserva de emergência com pelo menos 3 meses de despesas.
+        text: >+
+          #### Monte uma reserva de emergência com pelo menos 3 meses de
+          despesas.
 
         actions: []
         elementId: null
