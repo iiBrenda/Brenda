@@ -7,7 +7,7 @@ sections:
       text: 'Na B2CRED, te ajudamos a transformar sua vida financeira.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       A **B2CRED** é uma empresa especializada em **soluções financeiras
       personalizadas**, com foco em empréstimos, financiamentos e soluções
