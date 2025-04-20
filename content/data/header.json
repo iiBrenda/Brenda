@@ -23,7 +23,7 @@
         {
             "label": "Instagram",
             "altText": "Careers page",
-            "url": "/",
+            "url": "/https://www.instagram.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
