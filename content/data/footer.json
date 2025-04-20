@@ -27,7 +27,7 @@
             },
             {
                 "label": "Instagram",
-                "url": "/",
+                "url": "/https://www.instagram.com",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
