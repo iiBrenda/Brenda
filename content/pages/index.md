@@ -231,7 +231,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Avaliações dos clientes
     items:
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
