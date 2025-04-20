@@ -111,7 +111,8 @@ sections:
           altíssimos.
 
         image:
-          url: /images/icon2.svg
+          url: >-
+            /images/17206433-icone-de-credito-elemento-simples-da-colecao-de-crise-icone-de-credito-criativo-para-web-design-modelos-infograficos-e-muito-mais-vetor.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
