@@ -332,7 +332,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: ''
+      text: 'Entre em contato com a nossa equipe '
       color: text-dark
       type: TitleBlock
     subtitle: ''
