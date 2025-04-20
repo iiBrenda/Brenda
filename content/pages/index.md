@@ -23,7 +23,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Entre em contato!
         altText: ''
         url: /
         showIcon: false
