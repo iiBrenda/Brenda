@@ -139,8 +139,7 @@ sections:
 
 
         image:
-          url: >-
-            /images/26958529-organizacao-grafico-icone-simples-solido-estilo-org-hierarquia-companhia-diagrama-fluxo-simbolo-equipe-estrutura-o-negocio-conceito-glifo-ilustracao-isolado-em-branco-fundo-eps-10-vetor-remov.png
+          url: /images/Flowchart_5733.webp
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
