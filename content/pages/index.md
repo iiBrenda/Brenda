@@ -112,7 +112,7 @@ sections:
 
         image:
           url: >-
-            /images/17206433-icone-de-credito-elemento-simples-da-colecao-de-crise-icone-de-credito-criativo-para-web-design-modelos-infograficos-e-muito-mais-vetor.jpg
+            /images/png-clipart-credit-card-payment-symbol-computer-icons-credit-card-angle-text.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
