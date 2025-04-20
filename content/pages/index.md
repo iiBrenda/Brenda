@@ -25,7 +25,7 @@ sections:
     actions:
       - label: Entre em contato!
         altText: ''
-        url: /
+        url: '/https://web.whatsapp.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
