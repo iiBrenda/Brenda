@@ -71,7 +71,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      Educação financeira começa com informação. Siga nossos conteúdos nas
+      redes!
     items:
       - type: FeaturedItem
         title: ''
