@@ -65,7 +65,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: 'Dicas de '
+      text: Dicas de Educação Financeira
       color: text-dark
       styles:
         self:
