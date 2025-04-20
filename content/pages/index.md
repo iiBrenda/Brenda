@@ -112,7 +112,7 @@ sections:
 
         image:
           url: >-
-            /images/png-clipart-credit-card-payment-symbol-computer-icons-credit-card-angle-text.png
+            /images/png-clipart-credit-card-payment-symbol-computer-icons-credit-card-angle-text-removebg-preview.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
