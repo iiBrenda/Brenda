@@ -34,7 +34,7 @@ sections:
         type: Button
       - label: ''
         altText: ''
-        url: /
+        url: '/https://web.whatsapp.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
