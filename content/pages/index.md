@@ -128,10 +128,12 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ### Organize suas finanças com uma planilha ou app de controle
+          financeiro
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
