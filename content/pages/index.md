@@ -335,7 +335,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >+
       Tem dúvidas, quer simular um crédito ou precisa de orientação financeira?
 
