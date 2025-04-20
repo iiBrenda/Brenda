@@ -11,7 +11,7 @@
             {
                 "label": "Whatsapp",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/https://web.whatsapp.com",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
