@@ -336,11 +336,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Tem dúvidas, quer simular um crédito ou precisa de orientação financeira?
+
+
+      Nossa equipe está pronta para te atender com atenção, agilidade e total
+      transparência.
+
+
+      Fale com a B2CRED e dê o primeiro passo rumo à sua liberdade financeira!
+
     media:
       fields:
         - name: name
