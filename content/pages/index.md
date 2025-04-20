@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: QUEM NÓS SOMOS?
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
