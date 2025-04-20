@@ -104,15 +104,9 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: ''
-        text: >+
+        text: >
           ### Evite o crédito rotativo do cartão de crédito — os juros são
           altíssimos.
-
-
-          ### 
-
-
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two
